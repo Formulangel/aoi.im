@@ -1,7 +1,7 @@
 {
   "files": {
     "main-21833f8f.css": "/static/css/main-21833f8f.efce3dae.css",
-    "main-21833f8f.js": "/main-21833f8f.fd4d6789.js",
+    "main-21833f8f.js": "/main-21833f8f.c13282a5.js",
     "vendor-10e2e882.js": "/vendor-10e2e882.02b0c260.chunk.js",
     "vendor-1d8c4c28.js": "/vendor-1d8c4c28.9b58a401.chunk.js",
     "vendor-1f20a385.js": "/vendor-1f20a385.9a96757d.chunk.js",
@@ -60,6 +60,6 @@
     "vendor-10e2e882.02b0c260.chunk.js",
     "vendor-ec8c427e.f9642ea0.chunk.js",
     "static/css/main-21833f8f.efce3dae.css",
-    "main-21833f8f.fd4d6789.js"
+    "main-21833f8f.c13282a5.js"
   ]
 }
